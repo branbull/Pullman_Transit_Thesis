@@ -1,4 +1,5 @@
-# Transit-Thesis
-The aim of this project is to develop a viable machine learning algorithm for predicting bus ridership 
+# Bus Ridership Prediction: A Machine Learning Approach
+
+File repository for my M.S. Applied Economics Thesis.
 
 The full paper is attached. Files for EDA, figures, and analysis are all labeled respectively.
